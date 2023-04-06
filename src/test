@@ -1,0 +1,110 @@
+<div className="App">
+  <div className="container mt-4 shadow p-3 mb-5 bg-body rounded">
+    <div className="card">
+      <h5 className="card-header">
+        Perhitungan Estimasi Biaya dan Emisi Dalam Pengembangan Energi Baru
+        Terbarukan
+      </h5>
+      <div className="card-body">
+        <div className="container-content-emisi">
+          <h5 className="card-title">Perhitungan Emisi</h5>
+          <p className="card-text">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente
+            distinctio enim in doloremque vitae labore ad provident voluptate
+            illo unde iste dignissimos atque laudantium consectetur ea corporis,
+            sequi, quidem voluptatibus! Similique cumque saepe nulla quibusdam.
+            Distinctio enim iure porro laborum inventore quaerat itaque
+            asperiores eaque tempora, velit corrupti ut minus soluta nisi rem
+            recusandae sapiente assumenda iste perspiciatis explicabo facilis
+            illum, quod quisquam nostrum. Similique iusto hic consequatur,
+            officiis dicta ad sapiente voluptas sequi perspiciatis.
+          </p>
+          <div className="form-floating mb-3">
+            <input
+              type="number"
+              className="form-control"
+              id="floatingInput"
+              placeholder="Jumlah Kapasitas Pembangkit (MW)"
+            />
+            <label for="floatingInput">
+              Jumlah Kapasitas Pembangkit (MW)
+            </label>
+          </div>
+        </div>
+        <div className="container-content-investasi">
+          <h5 className="card-title">Perhitungan Estimasi Biaya Investasi</h5>
+          <p className="card-text">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente
+            distinctio enim in doloremque vitae labore ad provident voluptate
+            illo unde iste dignissimos atque laudantium consectetur ea corporis,
+            sequi, quidem voluptatibus! Similique cumque saepe nulla quibusdam.
+            Distinctio enim iure porro laborum inventore quaerat itaque
+            asperiores eaque tempora, velit corrupti ut minus soluta nisi rem
+            recusandae sapiente assumenda iste perspiciatis explicabo facilis
+            illum, quod quisquam nostrum. Similique iusto hic consequatur,
+            officiis dicta ad sapiente voluptas sequi perspiciatis.
+          </p>
+          <div className="form-floating mb-3">
+            <input
+              type="number"
+              className="form-control"
+              id="floatingInput"
+              placeholder="Jumlah Kapasitas Pembangkit (MW)"
+            />
+            <label for="floatingInput">
+              Jumlah Kapasitas Pembangkit (MW)
+            </label>
+          </div>
+          <div className="form-floating mb-3">
+            <input
+              type="number"
+              className="form-control"
+              id="floatingInput"
+              placeholder="Jumlah Kapasitas Pembangkit (MW)"
+            />
+            <label for="floatingInput">
+              Jumlah Kapasitas Pembangkit (MW)
+            </label>
+          </div>
+          <div className="form-floating mb-3">
+            <input
+              type="number"
+              className="form-control"
+              id="floatingInput"
+              placeholder="Jumlah Kapasitas Pembangkit (MW)"
+            />
+            <label for="floatingInput">
+              Jumlah Kapasitas Pembangkit (MW)
+            </label>
+          </div>
+          <div className="form-floating mb-3">
+            <input
+              type="number"
+              className="form-control"
+              id="floatingInput"
+              placeholder="Jumlah Kapasitas Pembangkit (MW)"
+            />
+            <label for="floatingInput">
+              Jumlah Kapasitas Pembangkit (MW)
+            </label>
+          </div>
+        </div>
+        <div className="container-content-produksi">
+          <h5 className="card-title">Perhitungan Biaya Produksi</h5>
+          <p className="card-text">
+            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sapiente
+            distinctio enim in doloremque vitae labore ad provident voluptate
+            illo unde iste dignissimos atque laudantium consectetur ea corporis,
+            sequi, quidem voluptatibus! Similique cumque saepe nulla quibusdam.
+            Distinctio enim iure porro laborum inventore quaerat itaque
+            asperiores eaque tempora, velit corrupti ut minus soluta nisi rem
+            recusandae sapiente assumenda iste perspiciatis explicabo facilis
+            illum, quod quisquam nostrum. Similique iusto hic consequatur,
+            officiis dicta ad sapiente voluptas sequi perspiciatis.
+          </p>
+        </div>
+        <a href="#" classNameName="btn btn-primary mt-3"> Hitung </a>
+      </div>
+    </div>
+  </div>
+</div>
